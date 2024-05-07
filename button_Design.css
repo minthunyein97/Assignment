@@ -1,0 +1,220 @@
+div{
+    border: 1px solid blue;
+    width: 100%;
+    height: 300px;
+}
+#button1{
+    font-size: x-small;
+    width: 70px;
+    height: 35px;
+    margin: 20px;
+    background-color: #3EB3F2;
+    color: #FDFCFB;
+    border: 0px;
+    border-radius: 4px;
+}
+#button2{
+    width: 80px;
+    height: 35px;
+    margin: 10px;
+    background-color:lightgray;
+    color:#F8FCFF;
+    border: 0px;
+    border-radius: 4px;
+}
+#button3{
+    width: 70px;
+    height: 35px;
+    margin: 10px;
+    background-color:#2ad29a;
+    color: white;
+    border: 0px;
+    border-radius: 4px;
+}
+#button4{
+    width: 70px;
+    height: 35px;
+    margin: 10px;
+    background-color: #3EB3F2;
+    color:white;
+    border: 0px;
+    border-radius: 4px;
+}
+#button5{
+    width: 70px;
+    height: 35px;
+    margin: 10px;
+    background-color: yellow;
+    color: #ffffff;
+    border: 0px;
+    border-radius: 4px;
+}
+#button6{
+    width: 70px;
+    height: 35px;
+    margin: 10px;
+    background-color: tomato;
+    color: #ffffff;
+    border: 0px;
+    border-radius: 4px;
+}
+#button7{
+    width: 70px;
+    height: 35px;
+    margin: 10px;
+    background-color:#3EB3F2;
+    color: #ffffff;
+    border: 0px;
+    padding: 10px;
+    border-radius: 20px;
+}
+#button8{
+    width: 70px;
+    height: 35px;
+    margin: 10px;
+    background-color: #F8FCFF;
+    color: #3EB3F2;
+    border: 1px dashed #3EB3F2;
+    padding: 10px;
+    border-radius: 4px;
+}
+#button9{
+    width: 70px;
+    height: 35px;
+    margin: 10px;
+    background-color: #3EB3F2;
+    color: #F8FCFF;
+    border: 0px;
+    border-radius: 4px;
+    
+}
+#button11{
+    width: 70px;
+    height: 35px;
+    margin: 10px;
+    background-color: #3EB3F2;
+    color: #F8FCFF;
+    border: 0px;
+    border-radius: 4px;
+    
+}
+#button22{
+    width: 70px;
+    height: 35px;
+    margin: 10px;
+    background-color: #ffffff;
+    color: #3EB3F2;
+    border: 1px solid #3EB3F2;
+    border-radius: 4px;
+}
+#button33{
+    width: 70px;
+    height: 35px;
+    margin: 10px;
+    background-color: #3EB3F2;
+    color: #F8FCFF;
+    border: 0px;
+    border-radius: 4px;
+}
+#button44{
+    width: 70px;
+    height: 35px;
+    margin: 10px;
+    background-color: #ffffff;
+    color: #3EB3F2;
+    border: 1px solid #3EB3F2;
+    border-radius: 4px;
+}
+#button55{
+    width: 70px;
+    height: 35px;
+    margin: 10px;
+    background-color: #ffffff;
+    color: #3EB3F2;
+    border: 1px solid #3EB3F2;
+    border-radius: 4px;
+}
+#button66{
+    width: 70px;
+    height: 35px;
+    margin: 10px;
+    background-color: #ffffff;
+    color: #3EB3F2;
+    border: 1px solid #3EB3F2;
+    border-radius: 4px;
+}
+#button77{
+    width: 70px;
+    height: 35px;
+    margin: 10px;
+    background-color: #3EB3F2;
+    color: #ffffff;
+    border: 1px solid #3EB3F2;
+}
+#button88{
+
+    width: 100px;
+    height: 35px;
+    margin: 10px;
+    background-color: #3EB3F2;
+    color: #ffffff;
+    border: 0px;
+    border-radius: 50px;
+}
+#button99{
+    width: 100px;
+    height: 35px;
+    margin: 10px;
+    background-color: #ffffff;
+    color: #3EB3F2;
+    border: 1px solid #3EB3F2;
+    border-radius: 4px;
+}
+#button111{
+    width: 100px;
+    height: 35px;
+    margin: 10px;
+    background-color: #ffffff;
+    color: #3EB3F2;
+    border: 0px;
+}
+#button222{
+    width: 100px;
+    height: 35px;
+    margin: 10px;
+    background-color: #ffffff;
+    color: #3EB3F2;
+    border: 0px;
+}
+#button333{
+
+    width: 100px;
+    height: 35px;
+    margin: 10px;
+    background-color: #ffffff;
+    color: #3EB3F2;
+    border: 1px solid #3EB3F2;
+    box-shadow: -5px -6px;
+}
+.button444{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    background-color: #3EB3F2;
+    border: 1px solid #3EB3F2;
+    border-radius: 100%;
+    cursor: pointer;
+
+}
+.button444 i{
+    color: white;
+}
+.button555{
+    width: 70px;
+    height: 35px;
+    margin: 10px;
+    background-color: #3EB3F2;
+    color: #F8FCFF;
+    border: 0px;
+    border-radius: 3px;
+}
